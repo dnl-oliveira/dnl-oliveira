@@ -30,6 +30,9 @@ Meu hobby é jogar video games.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas na Faculdade Diadema - 2º/2009
 - 🎓 Cursando Pós-graduação em Desenvolvimento de Software com Metodologias Ágeis na Universidade Anhembi Morumbi - 2º/2021
 
+## Certificações:
+- [Scrum Foundation Professional Certificate - CertiProf](https://www.credly.com/badges/77368964-a7d3-4167-aceb-c9d79f1431b6/public_url)
+
 ## Principais Habilidades
 - [x] C# | Swift
 - [x] Restful | SOAP
