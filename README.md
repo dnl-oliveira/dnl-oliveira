@@ -32,6 +32,7 @@ Meu hobby é jogar video games.
 
 ## Certificações:
 - [Scrum Foundation Professional Certificate - CertiProf](https://www.credly.com/badges/77368964-a7d3-4167-aceb-c9d79f1431b6/public_url)
+- [Lifelong Learning - CertiProf](https://www.credly.com/badges/d7ef09b8-b9be-414a-a6fc-ea3f9e65747f/public_url)
 
 ## Principais Habilidades
 - [x] C# | Swift
