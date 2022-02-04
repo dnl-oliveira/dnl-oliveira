@@ -11,7 +11,7 @@
   <img src="http://views.whatilearened.today/views/github/dnl-oliveira/views.svg" />
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-SQL%20Server-brightgreen" />
   <img src="https://img.shields.io/badge/Back--end-C%23-green" />
-  <a href="https://github.com/wesleyosantos91/">
+  <a href="https://github.com/dnl-oliveira/">
     <img src="https://img.shields.io/github/followers/dnl-oliveira?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
 </p>
